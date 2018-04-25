@@ -17,7 +17,7 @@ Python 3.6 based implementation of the [Pulseq](http://pulseq.github.io) framewo
 The following dependencies are required to program pulse sequences in Python, *imr_pulseq*:
 - [numpy](http://www.numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
-- [hdf5](http://www.h5py.org/)
+- [h5py](http://www.h5py.org/)
 
 1. Install [Python 3.6](https://www.python.org/downloads/)
 2. Clone [this](https://github.com/imr-framework/imr-framework) repo
