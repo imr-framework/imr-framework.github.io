@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://imr-framework.github.io"
-title: iMR Framework # site's title
-description: "An end-to-end MR framework" # used by search engines
+title: imr-framework # site's title
+description: "Enabling autonomous MR systems" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: iMR Framework # blog's title
-  avatar: assets/img/triangle.svg
+  title: imr-framework # blog's title
+  avatar: assets/img/avatar.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
@@ -73,7 +73,7 @@ theme_settings:
 
 
 # PAGINATION
-paginate: false
+paginate:
 paginate_path:
 
 

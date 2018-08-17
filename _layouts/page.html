@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% if site.theme_settings.header_text_feature_image %}
+<div id="main" class="call-out"
+style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+  {{ site.theme_settings.header_text }}
+</div>
+{% endif %}
 
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
