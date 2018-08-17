@@ -30,7 +30,7 @@ AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file s
 - ISMRMRD file standard for acquired raw data
 - DICOM file standard for reconstructed image data
 
-An example of some of these file standards as part of experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found [here](https://youtu.be/l2s-v3mkYCU) and [here](https://youtu.be/qepnjP9kk5M).
+An example of some of these file standards as part of experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found [here](https://youtu.be/3107aoRv2Vs) and [here](https://youtu.be/k-HAa3cADqQ).
 
 ### References
 [1] Atlas of MS 2013, https://www.msif.org/wp-content/uploads/2014/09/Atlas-of-MS.pdf
