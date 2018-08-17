@@ -3,6 +3,10 @@ layout: page
 title: AMRI
 ---
 
+### Autonomous Magnetic Resonance Imaging
+
+Check out a concept video on [YouTube](https://www.youtube.com/watch?v=2XroYwUxzD4).
+
 ### Why autonomous?
 Globally, there are **0.46 MRI scanners per 100,000** people. In comparison, the United States has 39 [[1]](#references) while the **low-income countries have 0.01**. In the United States, as of 2009, the annual wastage related to all healthcare spending annually is 700 billion USD with imaging diagnostics being responsible for at least **125 – 200 billion USD** [[2]](#references). The role of autonomous scanners to alleviate these challenges of reaching a larger population and minimizing spending related to MRI is being envisioned.
 
@@ -26,4 +30,4 @@ AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file s
 - ISMRMRD file standard for acquired raw data
 - DICOM file standard for reconstructed image data
 
-An example of some of these file standards as part of experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri).
+An example of some of these file standards as part of experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found [here](https://youtu.be/l2s-v3mkYCU) and [here](https://youtu.be/qepnjP9kk5M).
