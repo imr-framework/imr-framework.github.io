@@ -17,3 +17,13 @@ The National Science Foundation in its call for proposals for the Smart and Auto
 - Ethical
 
 The above features would essentially make an IPS knowledge-rich, and capable of long-term autonomy with minimal human intervention.
+
+### Utilization of file standards
+AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file standards and introduces 1 new file standard. These file standards are:
+- EMR file standard for subject information encryption
+- Situation report (Sitrep) file standard for sampling MR system state (introduced in this work)
+- Pulseq file standard for multi-vendor pulse sequence programming
+- ISMRMRD file standard for acquired raw data
+- DICOM file standard for reconstructed image data
+
+An example of some of these file standards as part of experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri).
