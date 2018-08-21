@@ -30,7 +30,10 @@ AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file s
 - ISMRMRD file standard for acquired raw data
 - DICOM file standard for reconstructed image data
 
-An example of some of these file standards as part of experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found [here](https://youtu.be/ccKxyWZLjto) and [here](https://youtu.be/ZToRLwXQW1A).
+### Demos
+An example of some of these file standards as part of brain screen protocol [4] experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found here:
+- Invivo experiment, [link](https://youtu.be/ccKxyWZLjto)
+- Phantom experiment, [link](https://youtu.be/ZToRLwXQW1A)
 
 ### References
 [1] Atlas of MS 2013, https://www.msif.org/wp-content/uploads/2014/09/Atlas-of-MS.pdf
@@ -38,3 +41,5 @@ An example of some of these file standards as part of experiments can be found [
 [2] Kelley, Robert. "Where can $700 billion in waste be cut annually from the US healthcare system." Ann Arbor, MI: Thomson Reuters 24 (2009).
 
 [3] Wang, Ge, et al. "Image Reconstruction is a New Frontier of Machine Learning." IEEE transactions on medical imaging 37.6 (2018): 1289-1296.
+
+[4] MRI Brain Screen Protocol, https://radiopaedia.org/articles/mri-protocol-brain-screen-2
