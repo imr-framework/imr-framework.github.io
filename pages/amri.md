@@ -8,7 +8,7 @@ title: AMRI
 Check out a concept video on [YouTube](https://www.youtube.com/watch?v=2XroYwUxzD4).
 
 ### Why autonomous?
-Globally, there are **0.46 MRI scanners per 100,000** people. In comparison, the United States has 36.72 [[1]](#references) while the **low-income countries have 0.01**. In the United States, as of 2009, the annual wastage related to all healthcare spending annually is 700 billion USD with imaging diagnostics being responsible for at least **125 – 200 billion USD** [[2]](#references). The role of autonomous scanners to alleviate these challenges of reaching a larger population and minimizing spending related to MRI is being envisioned [[3]](#references).
+Globally, there are **4.6 MRI scanners per 1,000,000** people. In comparison, the United States has 36.72 per 1,000,000 [[1]](#references) while the **low-income countries have 0.1 per 1,000,000**. In the United States, as of 2009, the annual wastage related to all healthcare spending annually is 700 billion USD with imaging diagnostics being responsible for at least **125 – 200 billion USD** [[2]](#references). The role of autonomous scanners to alleviate these challenges of reaching a larger population and minimizing spending related to MRI is being envisioned [[3]](#references).
 
 ### And what is MR Value?
 MR value can be defined to the patient as the ratio of actionable diagnostic information to the costs or time incurred. A simplified and technically relevant definition of MR value is: ratio of contrast-to-noise ratio (CNR) to the total scanner (table) time.
