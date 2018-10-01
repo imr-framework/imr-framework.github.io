@@ -26,12 +26,12 @@ The above capabilities would deliver an IPS that is knowledge-rich, and capable 
 AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file standards and introduces 1 new file standard. These file standards are:
 - EMR file standard for subject information encryption
 - Situation report (Sitrep) file standard for sampling MR system state (introduced in this work)
-- Pulseq file standard for multi-vendor pulse sequence programming
+- Pulseq [[4, 5]](#references) file standard for multi-vendor pulse sequence programming
 - ISMRMRD file standard for acquired raw data
 - DICOM file standard for reconstructed image data
 
 ### Demos
-An example of some of these file standards as part of brain screen protocol [4] experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found here:
+An example of some of these file standards as part of brain screen protocol [[6]](#references) experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found here:
 - Invivo experiment, [link](https://youtu.be/ccKxyWZLjto)
 - Phantom experiment, [link](https://youtu.be/ZToRLwXQW1A)
 
@@ -42,4 +42,8 @@ An example of some of these file standards as part of brain screen protocol [4] 
 
 [3] Wang, Ge, et al. "Image Reconstruction is a New Frontier of Machine Learning." IEEE transactions on medical imaging 37.6 (2018): 1289-1296.
 
-[4] MRI Brain Screen Protocol, https://radiopaedia.org/articles/mri-protocol-brain-screen-2
+[4] [Layton, Kelvin J., et al. "Pulseq: A rapid and hardware‐independent pulse sequence prototyping framework." Magnetic resonance in medicine 77.4 (2017): 1544-1552.](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26235)
+
+[5] [Ravi, Keerthi Sravan, et al. "Pulseq-Graphical Programming Interface: Open source visual environment for prototyping pulse sequences and integrated magnetic resonance imaging algorithm development." Magnetic resonance imaging 52 (2018): 9-15.](https://www.sciencedirect.com/science/article/pii/S0730725X1830033X)
+
+[6] MRI Brain Screen Protocol, https://radiopaedia.org/articles/mri-protocol-brain-screen-2
