@@ -38,7 +38,7 @@ An example of some of these file standards as part of brain screen protocol [[6]
 ### References
 [1] Atlas of MS 2013, https://www.msif.org/wp-content/uploads/2014/09/Atlas-of-MS.pdf
 
-[2] Geethanath, Sairam, and John Thomas Vaughan Jr. "Accessible magnetic resonance imaging: A review." Journal of Magnetic Resonance Imaging (2019).
+[2] Geethanath S, Vaughan Jr JT. Accessible magnetic resonance imaging: A review. Journal of Magnetic Resonance Imaging. 2019 Jan 14.
 
 [3] Kelley, Robert. "Where can $700 billion in waste be cut annually from the US healthcare system." Ann Arbor, MI: Thomson Reuters 24 (2009).
 
