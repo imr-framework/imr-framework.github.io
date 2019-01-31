@@ -16,11 +16,11 @@ The first step is to understand where the risks are coming from. Indeed, specifi
 -	The gradient fields are responsible for the noise made by the MR machine during a scan that can lead to hearing loss without adequate protection. Furthermore, gradients field can induce Peripheral Nerve Stimulation in the subject, and cause vibration on metallic implants. Similar to radiofrequency, gradient fields can also induce voltages on active devices.
 To make it easier to know if an object or device can safely enter the MR magnet room, and under which conditions an implanted subject may be scanned, the FDA created three labels [4]: 
 
-![MR Safe](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/mrsafe.JPG) MR Safe: no known hazard in all MR environments;
+![MR Safe](mrsafe.JPG) MR Safe: no known hazard in all MR environments;
 
-![MR Conditional](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/mrconditional.JPG) MR Conditional: no known hazards in a specified MR environment with specified condition of use;
+![MR Conditional](https://imr-framework.github.io/assets/mrsafety/mrconditional.JPG) MR Conditional: no known hazards in a specified MR environment with specified condition of use;
 
-![MR Unsafe](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/mrunsafe.JPG) MR Unsafe: hazardous in all MR environments. 
+![MR Unsafe](/assets/mrsafety/mrunsafe.JPG) MR Unsafe: hazardous in all MR environments. 
 
 An unknown object can be evaluated with a handheld metal detector and a strong handheld magnet (>1000G). 
 The safety policies should cover the labeling of devices, but also the training for researchers and staff, emergency procedures… To ensure everyone complies with these, it is crucial to clearly explain what the risks are and why the safety policies are established as they are. Among other institutions, the ACR published a very useful guidelines document to help establish these policies [5]; a complete description of the MR Safety roles is available in [6]. The Columbia University Zuckerman Institute policies are available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/MBBI%20MR%20Safety%20Policies.zip) as an example.
