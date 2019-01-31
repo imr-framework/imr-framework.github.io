@@ -16,9 +16,9 @@ The first step is to understand where the risks are coming from. Indeed, specifi
 -	The gradient fields are responsible for the noise made by the MR machine during a scan that can lead to hearing loss without adequate protection. Furthermore, gradients field can induce Peripheral Nerve Stimulation in the subject, and cause vibration on metallic implants. Similar to radiofrequency, gradient fields can also induce voltages on active devices.
 To make it easier to know if an object or device can safely enter the MR magnet room, and under which conditions an implanted subject may be scanned, the FDA created three labels [4]: 
 
-![MR Safe](mrsafe.JPG) MR Safe: no known hazard in all MR environments;
+![MR Safe](/assets/mrsafety/mrsafe.JPG) MR Safe: no known hazard in all MR environments;
 
-![MR Conditional](https://imr-framework.github.io/assets/mrsafety/mrconditional.JPG) MR Conditional: no known hazards in a specified MR environment with specified condition of use;
+![MR Conditional](/assets/mrsafety/mrconditional.JPG) MR Conditional: no known hazards in a specified MR environment with specified condition of use;
 
 ![MR Unsafe](/assets/mrsafety/mrunsafe.JPG) MR Unsafe: hazardous in all MR environments. 
 
