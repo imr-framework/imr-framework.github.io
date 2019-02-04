@@ -15,10 +15,11 @@ MR value can be defined to the patient as the ratio of actionable diagnostic inf
 
 ### MRI scanner as an Intelligent Physical System (IPS)
 AMRI is capable of transforming a conventional MR system into an IPS that can be characterised by the following capabilities:
-- Cognisant
+- Cognizant
 - Taskable
 - Adaptive
 - Ethical
+- Reflective (Reuse, Retain, Revise)
 
 The above capabilities would deliver an IPS that is knowledge-rich, and capable of long-term autonomy with minimal human intervention and supervision.
 
