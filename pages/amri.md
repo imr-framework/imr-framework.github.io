@@ -32,8 +32,6 @@ AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file s
 - DICOM file standard for reconstructed image data
 
 ### Demos
-A YouTube demo of self-administered MR on AMRI can be found [here](https://youtu.be/uPQqVNQOJJo).
-
 An example of some of these file standards as part of brain screen protocol [[7]](#references) experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found here:
 - Invivo experiment, [link](https://youtu.be/ccKxyWZLjto)
 - Phantom experiment, [link](https://youtu.be/ZToRLwXQW1A)
