@@ -5,7 +5,7 @@ title: AMRI
 
 ## Autonomous Magnetic Resonance Imaging
 
-Check out a concept video on [YouTube](https://www.youtube.com/watch?v=2XroYwUxzD4).
+Check out a concept video on [YouTube](https://www.youtube.com/watch?v=2XroYwUxzD4) to learn more about AMRI. To request AMRI to be used as online service, fill out this [form](https://goo.gl/forms/1FpGeH7S9SJbaBP53). Read more [here](#demos).
 
 ### Why autonomous?
 Globally, there are **4.6 MRI scanners per 1,000,000** people. In comparison, there are 36.72 per 1,000,000 in the United States [[1]](#references)[[2]](#references), and the **low-income countries have 0.1 per 1,000,000**. Annual Healthcare spending in the US is 700 billion USD. Of this **125 – 200 billion USD** (at least) is accounted for by diagnostic imaging [[3]](#references). Autonomous scanners can play a major role in tackling the challenges of delivering MR to a larger population with low-incomes. [[4]](#references).
@@ -35,6 +35,9 @@ AMRI can be easily built, rebuilt and deployed as it leverages 4 existing file s
 An example of some of these file standards as part of brain screen protocol [[7]](#references) experiments can be found [here](https://github.com/imr-framework/imr-framework/tree/master/amri). YouTube demos can be found here:
 - Invivo experiment, [link](https://youtu.be/ccKxyWZLjto)
 - Phantom experiment, [link](https://youtu.be/ZToRLwXQW1A)
+
+#### AMRI - Scanner as an Online Service (AMRI-SOS)
+AMRI-SOS enables students and researchers with limited access to MRI hardware to leverage AMRI to run custom pulse sequences designed on the Pulseq[[5, 6]](#references) framework. If you want to run your scans on a Siemens Prisma 3T, fill out this [form](https://goo.gl/forms/1FpGeH7S9SJbaBP53).
 
 ### References
 [1] Atlas of MS 2013, https://www.msif.org/wp-content/uploads/2014/09/Atlas-of-MS.pdf
