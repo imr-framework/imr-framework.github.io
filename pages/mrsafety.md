@@ -29,9 +29,6 @@ MR Conditional: no known hazards in a specified MR environment with specified co
 ![MR Unsafe](/assets/mrsafety/mrunsafe.JPG) <br/>
 MR Unsafe: hazardous in all MR environments. 
 
-<DIV align="justify">An unknown object can be evaluated with a handheld metal detector and a strong handheld magnet (>1000G). 
-<br/>
-<br/>
 The safety policies should cover the labeling of devices, but also the training for researchers and staff, emergency procedures… To ensure everyone complies with these, it is crucial to clearly explain what the risks are and why the safety policies are established as they are. Among other institutions, the ACR published a very useful guidelines document to help establish these policies [5]; a complete description of the MR Safety roles is available in [6]. </DIV>
 <br/>
 The Columbia University Zuckerman Institute policies are available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/MBBI%20MR%20Safety%20Policies.zip) as an example. 
