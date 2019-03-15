@@ -11,7 +11,7 @@ title: MR Safety
 
 ### MRI Safety Basics and Policies
 <DIV align="justify">The first step is to understand where the risks are coming from. Indeed, specific risks are associated to each of the three electromagnetic fields used to make an MR image: </DIV>
-
+\
 -	The static field can exert an attraction force and a torque on any ferromagnetic object or implant. This field is thus linked to the so-called “projectile effect”. Importantly, the static field is always on.
 
 -	The radiofrequency (RF) field is responsible for the potential heating or burn of the subject during the scan. This heating risk will be further increased in presence of a metallic medical device. Radiofrequency fields can also induce voltages on active devices such as pacemaker or neurostimulators, which can lead to unwanted or inefficient stimulation. 
