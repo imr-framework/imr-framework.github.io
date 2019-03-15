@@ -7,7 +7,7 @@ title: MR Safety
 
 ### MRI Safety: all responsible<br/>
 
-<DIV align="justify">When setting up a new MR system - be it manufactured or built - it is essential to have good safety practices in order to avoid accidents [1,2]. Almost every day, new MR-related injuries are reported from various institutions on the FDA-created MAUDE (Manufacturer and User Facility Device Experience) platform [3]. Looking up this events database is very helpful to remind us to always pay attention to, and adjust when needed, the safety policies in MRI. </DIV><br/>
+<DIV align="justify">When setting up a new MR system - be it manufactured or built - it is essential to have good safety practices in order to avoid accidents [1,2]. Almost every day, new MR-related injuries are reported from various institutions on the FDA-created MAUDE (Manufacturer and User Facility Device Experience) platform [3]. Looking up this events database is very helpful to remind us to always pay attention to, and adjust when needed, the safety policies in MRI. </DIV>
 
 ### MRI Safety Basics and Policies
 <DIV align="justify">The first step is to understand where the risks are coming from. Indeed, specific risks are associated to each of the three electromagnetic fields used to make an MR image:</DIV> 
@@ -38,7 +38,7 @@ The Columbia University Zuckerman Institute policies are available [here](https:
 <br/>
 
 ### Numerical Simulation 
-<DIV align="justify">A numerical simulation system (hardware, software) can be useful to have insights in physical phenomenon through electromagnetic and thermal simulations. However, it is important to note that simulations results alone cannot be used to make any conclusions about safety, until they are validated experimentally. </DIV> <br/>
+<DIV align="justify">A numerical simulation system (hardware, software) can be useful to have insights in physical phenomenon through electromagnetic and thermal simulations. However, it is important to note that simulations results alone cannot be used to make any conclusions about safety, until they are validated experimentally. </DIV>
 
 ### MRI Safety Lab
 <DIV align="justify">A dedicated MRI safety lab is recommended, for example to evaluate the impact of the MR fields on a medical implant. Again, several setups and test benches can be established from official standards and publications to study the effect of the static field [7,8], radiofrequency field [9] and gradient fields [10,11]. </DIV> 
