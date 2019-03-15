@@ -10,12 +10,12 @@ title: MR Safety
 <DIV align="justify">When setting up a new MR system - be it manufactured or built - it is essential to have good safety practices in order to avoid accidents [1,2]. Almost every day, new MR-related injuries are reported from various institutions on the FDA-created MAUDE (Manufacturer and User Facility Device Experience) platform [3]. Looking up this events database is very helpful to remind us to always pay attention to, and adjust when needed, the safety policies in MRI. </DIV>
 
 ### MRI Safety Basics and Policies
-<DIV align="justify">The first step is to understand where the risks are coming from. Indeed, specific risks are associated to each of the three electromagnetic fields used to make an MR image: 
+<DIV align="justify">The first step is to understand where the risks are coming from. Indeed, specific risks are associated to each of the three electromagnetic fields used to make an MR image: </DIV>
 -	The static field can exert an attraction force and a torque on any ferromagnetic object or implant. This field is thus linked to the so-called “projectile effect”. Importantly, the static field is always on.
 -	The radiofrequency (RF) field is responsible for the potential heating or burn of the subject during the scan. This heating risk will be further increased in presence of a metallic medical device. Radiofrequency fields can also induce voltages on active devices such as pacemaker or neurostimulators, which can lead to unwanted or inefficient stimulation. 
 -	The gradient fields are responsible for the noise made by the MR machine during a scan that can lead to hearing loss without adequate protection. Furthermore, gradients field can induce Peripheral Nerve Stimulation in the subject, and cause vibration on metallic implants. Similarly to radiofrequency, gradient fields can also induce voltages on active devices.
 
-To make it easier to know if an object or device can safely enter the MR magnet room, and under which conditions an implanted subject may be scanned, the FDA created three labels [4]: </DIV> 
+<DIV align="justify">To make it easier to know if an object or device can safely enter the MR magnet room, and under which conditions an implanted subject may be scanned, the FDA created three labels [4]: </DIV> 
 
 ![MR Safe](/assets/mrsafety/mrsafe.JPG) MR Safe: no known hazard in all MR environments;
 
