@@ -11,8 +11,11 @@ title: MR Safety
 
 ### MRI Safety Basics and Policies
 <DIV align="justify">The first step is to understand where the risks are coming from. Indeed, specific risks are associated to each of the three electromagnetic fields used to make an MR image: </DIV>
+
 -	The static field can exert an attraction force and a torque on any ferromagnetic object or implant. This field is thus linked to the so-called “projectile effect”. Importantly, the static field is always on.
+
 -	The radiofrequency (RF) field is responsible for the potential heating or burn of the subject during the scan. This heating risk will be further increased in presence of a metallic medical device. Radiofrequency fields can also induce voltages on active devices such as pacemaker or neurostimulators, which can lead to unwanted or inefficient stimulation. 
+
 -	The gradient fields are responsible for the noise made by the MR machine during a scan that can lead to hearing loss without adequate protection. Furthermore, gradients field can induce Peripheral Nerve Stimulation in the subject, and cause vibration on metallic implants. Similarly to radiofrequency, gradient fields can also induce voltages on active devices.
 
 <DIV align="justify">To make it easier to know if an object or device can safely enter the MR magnet room, and under which conditions an implanted subject may be scanned, the FDA created three labels [4]: </DIV> 
@@ -25,6 +28,7 @@ title: MR Safety
 
 <DIV align="justify">An unknown object can be evaluated with a handheld metal detector and a strong handheld magnet (>1000G). 
 The safety policies should cover the labeling of devices, but also the training for researchers and staff, emergency procedures… To ensure everyone complies with these, it is crucial to clearly explain what the risks are and why the safety policies are established as they are. Among other institutions, the ACR published a very useful guidelines document to help establish these policies [5]; a complete description of the MR Safety roles is available in [6]. </DIV>
+
 The Columbia University Zuckerman Institute policies are available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/MBBI%20MR%20Safety%20Policies.zip) as an example. 
 
 ### Numerical Simulation 
@@ -32,6 +36,7 @@ The Columbia University Zuckerman Institute policies are available [here](https:
 
 ### MRI Safety Lab
 <DIV align="justify">A dedicated MRI safety lab is recommended, for example to evaluate the impact of the MR fields on a medical implant. Again, several setups and test benches can be established from official standards and publications to study the effect of the static field [7,8], radiofrequency field [9] and gradient fields [10,11]. </DIV> 
+
 A list of equipment suggestions for RF studies and RF heating tests is available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/RF-Safety_Lab.xlsx). 
 
 ### References
