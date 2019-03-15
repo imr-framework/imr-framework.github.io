@@ -20,19 +20,19 @@ title: MR Safety
 <br/>
 <DIV align="justify">To make it easier to know if an object or device can safely enter the MR magnet room, and under which conditions an implanted subject may be scanned, the FDA created three labels [4]: </DIV> <br/>
 
-![MR Safe](/assets/mrsafety/mrsafe.JPG) MR Safe: no known hazard in all MR environments;
+![MR Safe](/assets/mrsafety/mrsafe.JPG) <br/>
+MR Safe: no known hazard in all MR environments;
 
-![MR Conditional](/assets/mrsafety/mrconditional.JPG) MR Conditional: no known hazards in a specified MR environment with specified condition of use;
+![MR Conditional](/assets/mrsafety/mrconditional.JPG) <br/>
+MR Conditional: no known hazards in a specified MR environment with specified condition of use;
 
-![MR Unsafe](/assets/mrsafety/mrunsafe.JPG) MR Unsafe: hazardous in all MR environments. 
+![MR Unsafe](/assets/mrsafety/mrunsafe.JPG) <br/>
+MR Unsafe: hazardous in all MR environments. 
 
 <DIV align="justify">An unknown object can be evaluated with a handheld metal detector and a strong handheld magnet (>1000G). 
 <br/>
 <br/>
-The safety policies should cover the labeling of devices, but also the training for researchers and staff, emergency procedures… To ensure everyone complies with these, it is crucial to clearly explain what the risks are and why the safety policies are established as they are. 
-<br/>
-<br/>
-Among other institutions, the ACR published a very useful guidelines document to help establish these policies [5]; a complete description of the MR Safety roles is available in [6]. </DIV>
+The safety policies should cover the labeling of devices, but also the training for researchers and staff, emergency procedures… To ensure everyone complies with these, it is crucial to clearly explain what the risks are and why the safety policies are established as they are. Among other institutions, the ACR published a very useful guidelines document to help establish these policies [5]; a complete description of the MR Safety roles is available in [6]. </DIV>
 <br/>
 The Columbia University Zuckerman Institute policies are available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/MBBI%20MR%20Safety%20Policies.zip) as an example. 
 
