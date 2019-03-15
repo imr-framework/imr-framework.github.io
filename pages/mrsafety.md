@@ -3,9 +3,9 @@ layout: page
 title: MR Safety
 ---
 
-## Setting up your MRI Safety policies and Test Lab
+## Setting up your MRI Safety policies and Test Lab<br/>
 
-### MRI Safety: all responsible
+### MRI Safety: all responsible<br/>
 
 <DIV align="justify">When setting up a new MR system - be it manufactured or built - it is essential to have good safety practices in order to avoid accidents [1,2]. Almost every day, new MR-related injuries are reported from various institutions on the FDA-created MAUDE (Manufacturer and User Facility Device Experience) platform [3]. Looking up this events database is very helpful to remind us to always pay attention to, and adjust when needed, the safety policies in MRI. </DIV><br/>
 
@@ -34,7 +34,8 @@ MR Unsafe: hazardous in all MR environments.
 <br/>
 The safety policies should cover the labeling of devices, but also the training for researchers and staff, emergency procedures… To ensure everyone complies with these, it is crucial to clearly explain what the risks are and why the safety policies are established as they are. Among other institutions, the ACR published a very useful guidelines document to help establish these policies [5]; a complete description of the MR Safety roles is available in [6]. </DIV>
 <br/>
-The Columbia University Zuckerman Institute policies are available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/MBBI%20MR%20Safety%20Policies.zip) as an example. <br/>
+The Columbia University Zuckerman Institute policies are available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/MBBI%20MR%20Safety%20Policies.zip) as an example. 
+<br/>
 
 ### Numerical Simulation 
 <DIV align="justify">A numerical simulation system (hardware, software) can be useful to have insights in physical phenomenon through electromagnetic and thermal simulations. However, it is important to note that simulations results alone cannot be used to make any conclusions about safety, until they are validated experimentally. </DIV> <br/>
@@ -42,7 +43,8 @@ The Columbia University Zuckerman Institute policies are available [here](https:
 ### MRI Safety Lab
 <DIV align="justify">A dedicated MRI safety lab is recommended, for example to evaluate the impact of the MR fields on a medical implant. Again, several setups and test benches can be established from official standards and publications to study the effect of the static field [7,8], radiofrequency field [9] and gradient fields [10,11]. </DIV> 
 <br/>
-A list of equipment suggestions for RF studies and RF heating tests is available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/RF-Safety_Lab.xlsx). <br/>
+A list of equipment suggestions for RF studies and RF heating tests is available [here](https://github.com/imr-framework/imr-framework.github.io/blob/master/assets/mrsafety/RF-Safety_Lab.xlsx). 
+<br/>
 
 ### References
 1.	ABC NEWS, Boy, 6, Killed in Freak MRI Accident. 2001. [link](https://abcnews.go.com/US/story?id=92745&page=1)
