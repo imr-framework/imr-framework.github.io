@@ -12,6 +12,7 @@ title: imr-framework
 - `pulseq`: Python translation of the Pulseq framework [[1]](#references).
 - `pulseq-gpi`: GPI integration of Pulseq [[2]](#references)
 - `ImRiD`: Image reconstruction database
+- `Open source MRF`: Open source MRF package 
 
 ### [References](#references)
 [1] [Layton, Kelvin J., et al. "Pulseq: A rapid and hardware‐independent pulse sequence prototyping framework." Magnetic resonance in medicine 77.4 (2017): 1544-1552.](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26235)
