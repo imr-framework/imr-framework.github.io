@@ -1,0 +1,9 @@
+---
+title: amri-sos
+subtitle: Scanner as an online service
+layout: default
+modal-id: 1
+thumbnail: amri-sos.png
+alt: image-alt
+github: https://github.com/imr-framework/amri-sos
+---
