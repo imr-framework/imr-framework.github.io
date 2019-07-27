@@ -5,5 +5,5 @@ layout: default
 modal-id: 1
 thumbnail: amri-sos.png
 alt: image-alt
-github: https://github.com/imr-framework/amri-sos
+github: https://github.com/imr-framework/amri/tree/amri-sos
 ---
