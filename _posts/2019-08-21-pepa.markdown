@@ -1,6 +1,6 @@
 ---
 title: PEPA
-subtitle: PEPA
+subtitle: Replacing Phase Encoding with Phase Arrays
 layout: default
 modal-id: 8
 thumbnail: pepa.png
