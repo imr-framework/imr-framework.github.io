@@ -1,0 +1,9 @@
+---
+title: PEPA
+subtitle: PEPA
+layout: default
+modal-id: 8
+thumbnail: pepa.png
+alt: image-alt
+github: https://github.com/imr-framework/PEPA/tree/MATLAB
+---
