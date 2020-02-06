@@ -16,29 +16,37 @@ people:
     - title: github
       url: https://github.com/sairamgeethanath
 
-- name: Enlin Qian
+people:
+- name: Pavan Poojar
   pic: 2
+  position: Staff Associate
+  social:
+    - title: github
+      url: https://github.com/PavanPoojar
+
+- name: Enlin Qian
+  pic: 3
   position: Student (PhD, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/qianenlin
 
 - name: Gehua Tong
-  pic: 3
+  pic: 4
   position: Student (PhD, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/tonggehua
 
 - name: Keerthi Sravan Ravi
-  pic: 4
+  pic: 5
   position: Student (PhD, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/sravan953
 
 - name: Marina Jimeno Manso
-  pic: 5
+  pic: 6
   position: Student (PhD, Biomedical Engineering)
   social:
     - title: github
