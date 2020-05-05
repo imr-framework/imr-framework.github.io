@@ -1,9 +1,10 @@
 ---
-title: PEPA
-subtitle: Replacing Phase Encoding with Phase Arrays
+title: SEASR
+subtitle: Single Echo Acquisition with a Short Readout
 layout: default
 modal-id: 8
-thumbnail: pepa.png
+thumbnail: SEASR.jpg
 alt: image-alt
-github: https://github.com/imr-framework/PEPA/tree/MATLAB
+github: https://github.com/imr-framework/SEASR/tree/SEA_dev
 ---
+
