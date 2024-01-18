@@ -11,45 +11,66 @@ description: "imr-framework"
 people:
 - name: Sairam Geethanath
   pic: 1
-  position: Assistant Professor
+  position: Principal Investigator
   social:
     - title: github
       url: https://github.com/sairamgeethanath
 
 - name: Pavan Poojar
   pic: 2
-  position: Post-doctoral fellow
+  position: Recent alumni (PhD, Electrical and Electronics Engineering)
   social:
     - title: github
       url: https://github.com/PavanPoojar
 
 - name: Enlin Qian
   pic: 3
-  position: Student (PhD, Biomedical Engineering)
+  position: Coadvisor (PhD student, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/qianenlin
 
 - name: Gehua Tong
   pic: 4
-  position: Student (PhD, Biomedical Engineering)
+  position: Coadvisor (PhD student, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/tonggehua
 
 - name: Keerthi Sravan Ravi
   pic: 5
-  position: Student (PhD, Biomedical Engineering)
+  position: Coadvisor (PhD student, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/sravan953
 
 - name: Marina Jimeno Manso
   pic: 6
-  position: Student (PhD, Biomedical Engineering)
+  position: Coadvisor (PhD student, Biomedical Engineering)
   social:
     - title: github
       url: https://github.com/Mmj94
+
+  - name: Kunal Aggarwal
+  pic: 7
+  position: Recent Alumni (MSc student, Neuroengineering)
+  social:
+    - title: github
+      url: https://github.com/KunalTUM
+
+  - name: Shounak Nandi
+  pic: 8
+  position: Trainee (MSc student, Biomedical Engineering and Medical Physics)
+  social:
+    - title: github
+      url: https://github.com/Nandishounak
+
+  - name: Ivan Etoku Oiye
+  pic: 8
+  position: Trainee (BSc, Biomedical Engineering)
+  social:
+    - title: github
+      url: https://github.com/ivan-etoku
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
