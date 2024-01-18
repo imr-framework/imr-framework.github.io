@@ -51,22 +51,22 @@ people:
     - title: github
       url: https://github.com/Mmj94
 
-  - name: Kunal Aggarwal
+- name: Kunal Aggarwal
   pic: 7
   position: Recent Alumni (MSc student, Neuroengineering)
   social:
     - title: github
       url: https://github.com/KunalTUM
 
-  - name: Shounak Nandi
+- name: Shounak Nandi
   pic: 8
   position: Trainee (MSc student, Biomedical Engineering and Medical Physics)
   social:
     - title: github
       url: https://github.com/Nandishounak
 
-  - name: Ivan Etoku Oiye
-  pic: 8
+- name: Ivan Etoku Oiye
+  pic: 9
   position: Trainee (BSc, Biomedical Engineering)
   social:
     - title: github
