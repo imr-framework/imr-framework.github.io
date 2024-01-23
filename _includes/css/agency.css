@@ -296,6 +296,7 @@ header .intro-text .intro-statement {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     color: #021f69;
+    font-style: bold;
     line-height: 22px;
 }
 
