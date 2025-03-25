@@ -79,8 +79,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3227 Broadway
-  - line: New York, NY 10027
+  - line: 600 N. Wolfe Street, Room 120
+  - line: Baltimore, MD 21287
 
 # Build settings
 markdown: kramdown
