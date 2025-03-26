@@ -72,6 +72,26 @@ people:
     - title: github
       url: https://github.com/ivan-etoku
 
+# Projects
+projects:
+- title: Practical magnetic resonance imaging for all - learning through building and playing
+  description: "This project will overcome access limitations and deliver a seminal, cutting-edge curriculum using an online game-based digital platform that allows students to build and play with their own educational MR scanner."
+  pic: 1
+  github: https://github.com/delta-diy-mri/delta-diy-mri.github.io
+  sponsor: JHU Provost's DELTA Award
+  students: Ivan Etoku Oiye
+  thumbnail: Delta_Logo.png
+
+- title: Design and development of 0.2T portable MR systems
+  description: "Successful design and development of a portable 0.2T MRI for the head and spine will yield structural, functional and metabolic MRI capabilities required for downstream clinical use in an accessible manner."
+  pic: 2
+  url:
+  sponsor: Medirays Pvt. Ltd.
+  students: Ivan Etoku Oiye
+  thumbnail: 
+  
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
@@ -85,3 +105,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
