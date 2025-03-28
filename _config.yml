@@ -6,77 +6,197 @@ title: imr-framework
 email: imr.framework2018@gmail.com
 description: "imr-framework"
 
-
 # Team names, titles and social links
 people:
 - name: Sairam Geethanath
   pic: 1
   position: Principal Investigator
   social:
-    - title: github
-      url: https://github.com/sairamgeethanath
-
-- name: Pavan Poojar
-  pic: 2
-  position: Recent alumni (PhD, Electrical and Electronics Engineering)
-  social:
-    - title: github
-      url: https://github.com/PavanPoojar
-
-- name: Enlin Qian
-  pic: 3
-  position: Coadvisee (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/qianenlin
-
-- name: Gehua Tong
-  pic: 4
-  position: Coadvisee (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/tonggehua
-
-- name: Keerthi Sravan Ravi
-  pic: 5
-  position: Coadvisee (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/sravan953
-
-- name: Marina Jimeno Manso
-  pic: 6
-  position: Coadvisee (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/Mmj94
-
-- name: Kunal Aggarwal
-  pic: 7
-  position: Recent Alumni (MSc student, Neuroengineering)
-  social:
-    - title: github
-      url: https://github.com/KunalTUM
-
-- name: Shounak Nandi
-  pic: 8
-  position: Recent Alumni (MSc student, Biomedical Engineering and Medical Physics)
-  social:
-    - title: github
-      url: https://github.com/Nandishounak
+    - title: google-scholar
+      url: https://scholar.google.com/citations?user=isw_o1YAAAAJ&hl=en&oi=ao
 
 - name: Ivan Etoku Oiye
   pic: 9
   position: Trainee (BSc, Biomedical Engineering)
   social:
-    - title: github
-      url: https://github.com/ivan-etoku
+    - title: google-scholar
+      url: https://scholar.google.com/citations?hl=en&user=A7HuxwcAAAAJ
 
+- name: Ajay Sharma
+  pic: 10
+  position: Post-doctoral Fellow
+  social:
+    - title: google-scholar
+      url: https://scholar.google.com/citations?hl=en&user=rojRnpEAAAAJ
+
+# Alumni names, titles and social links
+alumni:
+- name: Shounak Nandi
+  pic: 8
+  position: Neuroimaging researcher, Albert Einstein College of Medicine
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/shounak-nandi-b2b40b78/
+  
+- name: Kunal Aggarwal
+  pic: 7
+  position: Master's thesis, Max Planck Institute for Biological Cybernetics, Tübingen, Germany
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/kunal-aggarwal-neuro-engineer/
+
+- name: Marina Jimeno Manso
+  pic: 6
+  position: Clinical Imaging Scientist, Novartis
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/marina-manso-jimeno/
+
+
+- name: Keerthi Sravan Ravi
+  pic: 5
+  position: Senior AI Scientist, GE Healthcare
+  social:
+  - title: linkedin
+    url: http://linkedin.com/in/sravan953/
+
+
+- name: Enlin Qian
+  pic: 3
+  position: Post-doctoral Fellow, Dr. Ricardo Otazo Lab, Memorial Sloan Kettering Cancer Center
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/enlin-qian-890659111/
+
+- name: Pavan Poojar
+  pic: 2
+  position: Post-doctoral Fellow, Dr. Hurd Lab, Icahn School of Medicine at Mount Sinai
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/pavan-poojar-3a399a23/
+
+- name: Rakshith Shanbhag
+  pic: 11
+  position: Product Manager, Sysmex Europe
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/rakshith-shanbhag-a261b661/
+
+- name: Nutandev Bikkamane Jayadev
+  pic: 12
+  position: Research Scientist, Siemens Healthineers
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/nutandevbjayadev/
+
+- name: Imam Ahmed Shaik
+  pic: 13
+  position: General Manager, Siemens Healthineers
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/imam-ahmed-shaik-99a19050/
+
+- name: Amaresha Shridhar Konar
+  pic: 14
+  position: MR Platform Team Lead, Columbia University in the City of New York
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/amaresha-konar-shridhar/
+
+- name: Ssentamu Tonny 
+  pic: 15
+  position: Graduate Research Student, King's College London
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/ssentamu-tonny/
+
+# Note: The pic numbers above should correspond to images in the /assets/images/people/ directory.
+- name: Rahul Ramesh
+  pic: 16
+  position: AI Researcher, Siemens Healthineers
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/rahul-ramesh-b7922397/
+  # Note: Ensure to add an image named '4.jpg' in the /assets/images/people/ directory for this person.
+
+- name: Vineet Vinay Bhombore
+  pic: 17
+  position: Research Scientist, Siemens Healthineers
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/vineet-vinay-bhombore-79aa14131/
+  # Note: Ensure to add an image named '17.jpg' in the /assets/images/people/ directory for this person.
+
+- name: Nishika Girish
+  pic: 18
+  position: James Scholar, University of Illinois at Urbana-Champaign (UIUC) 
+    # Note: This person is a current student and not an alumnus, but included for completeness.
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/nishikagirish/
+  # Note: Ensure to add an image named '18.jpg' in the /assets/images/people/ directory for this person.
+
+- name: Rishi Ananth
+  pic: 19
+  position: Honors, Chemistry, University of Washington at Seattle
+    # Note: This person is a current student and not an alumnus, but included for completeness.
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/rishiananth/
+  # Note: Ensure to add an image named '19.jpg' in the /assets/images/people/ directory for this person.
+
+- name: Alvin Kombawa
+  pic: 20
+  position: MASc, Biomedical Engineering, University of British Columbia (UBC)
+    # Note: This person is a current student and not an alumnus, but included for completeness.
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/alvin256/
+  # Note: Ensure to add an image named '20.jpg' in the /assets/images/people/ directory for this person.
+
+- name: Sai Abitha Srinivas
+  pic: 21
+  position: Principal MR Systems Engineer, Adialante
+    # Note: This person is a current student and not an alumnus, but included for completeness.
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/sai-abitha-srinivas/
+  # Note: Ensure to add an image named '21.jpg' in the /assets/images/people/ directory for this person.
+
+- name: Arush Honnedevasthana Arun
+  pic: 22
+  position: Research Fellow, The National Imaging Facility
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/arush-honnedevasthana-arun-a315257a/
+
+
+- name: Manoj B
+  pic: 23
+  position: MRI Pulse Programming R&D, Philips Healthcare
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/manoj-b-500b99114/
+
+- name: Jayashree Ganguly
+  pic: 24
+  position: Senior Development Engineer, Philips Innovation Campus
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/jayashree-ganguly-a5aa9bb5/
+
+    # ---------------------------------- NEW SECTION ---------------------------------- #
+# Note: The following section is for projects. Each project can have a title, description, image, and other details.
+# This section allows you to showcase various projects associated with the imr-framework.
+# Each project can be displayed with a title, description, image, and other relevant details.
+# Note: The pic numbers above should correspond to images in the /assets/images/projects/ directory.
+# Note: Ensure to add images for each project in the /assets/images/projects/ directory with names corresponding to the pic numbers (e.g., 1.jpg, 2.jpg, etc.)
+# Note: The pic numbers above should correspond to images in the /assets/images/projects/ directory.
+# Note: Ensure to add images for each project in the /assets/images/projects/ directory with names corresponding to the pic numbers (e.g., 1.jpg, 2.jpg, etc.)
 # Projects
 projects:
-- title: Practical magnetic resonance imaging for all - learning through building and playing
+- title: Practical magnetic resonance imaging for all 
   description: "This project will overcome access limitations and deliver a seminal, cutting-edge curriculum using an online game-based digital platform that allows students to build and play with their own educational MR scanner."
-  pic: 1
   github: https://github.com/delta-diy-mri/delta-diy-mri.github.io
   sponsor: JHU Provost's DELTA Award
   students: Ivan Etoku Oiye
@@ -84,12 +204,27 @@ projects:
 
 - title: Design and development of 0.2T portable MR systems
   description: "Successful design and development of a portable 0.2T MRI for the head and spine will yield structural, functional and metabolic MRI capabilities required for downstream clinical use in an accessible manner."
-  pic: 2
-  url:
   sponsor: Medirays Pvt. Ltd.
   students: Ivan Etoku Oiye
   thumbnail: Medirays_pic.jpg
   
+- title: Accessible imaging of high consequence pathogens
+  description: "Tracking brain changes due to infection in restricted environments require portable solutions providing image quality similar to clinical scanners"
+  sponsor: 
+  students: Ivan Etoku Oiye, Ajay Sharma
+  thumbnail: 
+
+- title:  Tracking structural brain changes at 0.05T 
+  description: "UPCOMING - Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
+  sponsor: 
+  students: Ajay Sharma
+  thumbnail: 
+
+- title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
+  description: "UPCOMING - Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
+  sponsor: 
+  students: Ajay Sharma
+  thumbnail: 
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
