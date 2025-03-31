@@ -1,5 +1,5 @@
 <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <section id="tools" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -10,16 +10,16 @@
             <div class="row">
             {% assign site_posts = site.posts | reverse %}
             {% for post in site_posts %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="{{ post.github }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
+                <div class="col-md-4 col-sm-6 tools-item">
+                    <a href="{{ post.github }}" class="tools-link" data-toggle="modal">
+                        <div class="tools-hover">
+                            <div class="tools-hover-content">
                                 <i class="fa fa-github fa-4x"></i>
                             </div>
                         </div>
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="{{ post.image-alt }}">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="tools-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
                         <br>

@@ -379,6 +379,11 @@ section h3.section-subheading {
     margin: 0 0 15px;
 }
 
+#tools .tools-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
@@ -386,7 +391,28 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
+#tools .tools-item .tools-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: rgba(2,33,105,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+}
+
+
+#tools .tools-item .tools-link .tools-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -402,7 +428,22 @@ section h3.section-subheading {
     opacity: 1;
 }
 
+#tools .tools-item .tools-link .tools-hover:hover {
+    opacity: 1;
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#tools .tools-item .tools-link .tools-hover .tools-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -416,6 +457,11 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
 }
+
+#tools .tools-item .tools-link .tools-hover .tools-hover-content i {
+    margin-top: -12px;
+}
+
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
