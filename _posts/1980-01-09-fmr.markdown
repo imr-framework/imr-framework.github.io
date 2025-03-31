@@ -1,0 +1,10 @@
+---
+title: FMR
+subtitle: Field mapping robot
+description: Highly scalable, simultaneous parameter mapping using a CNC
+layout: default
+modal-id: 9
+thumbnail: fmr.png
+alt: image-alt
+github: https://github.com/imr-framework/mapping_robot
+---
