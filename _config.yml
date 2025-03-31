@@ -5,7 +5,12 @@ baseurl:
 title: imr-framework
 email: imr.framework2018@gmail.com
 description: "imr-framework"
-
+# --------- NEW SECTION --------- #
+# This section contains the main settings for the site, including title, email, and description.
+# This is the main title of the site, which will appear in the header and browser title bar.
+# The email address is used for contact purposes and can be displayed on the site.
+# The description provides a brief overview of the site and can be used in search engine optimization (SEO).
+# Note: Ensure to keep the title, email, and description concise and relevant to the content of the site.
 # Team names, titles and social links
 people:
 - name: Sairam Geethanath
@@ -23,7 +28,7 @@ people:
       url: https://scholar.google.com/citations?hl=en&user=A7HuxwcAAAAJ
 
 - name: Ajay Sharma
-  pic: 10
+  pic: 25
   position: Post-doctoral Fellow
   social:
     - title: google-scholar
@@ -170,7 +175,6 @@ alumni:
   - title: linkedin
     url: https://www.linkedin.com/in/arush-honnedevasthana-arun-a315257a/
 
-
 - name: Manoj B
   pic: 23
   position: MRI Pulse Programming R&D, Philips Healthcare
@@ -185,7 +189,27 @@ alumni:
   - title: linkedin
     url: https://www.linkedin.com/in/jayashree-ganguly-a5aa9bb5/
 
-    # ---------------------------------- NEW SECTION ---------------------------------- #
+# The section below contains the details of the projects associated with the imr-framework.
+# Each project can have a title, description, image, and other details.
+# Note: The pic numbers above should correspond to images in the /assets/images/projects/ directory.
+
+past:
+- title: Indian National Mission on Indigenous 1.5T MRI - Academic and prototyping site
+  description: "We were involved in building a 1.5T MRI from scratch indigenously in India."
+  github: 
+  sponsor: Dept. of Electronics and Information Technology (DeitY), Government of India
+  students: 
+  thumbnail: SAMEER.png
+ 
+- title: Pediatric brain tumor imaging using tailored MR Fingerprinting
+  description: "We developed a non-synthetic approach to simultaneously obtain multiple qualitative and qunatitative MR images. We designed, implemented and evaluated the sequence on pediatric brain tumor patients"
+  github: 
+  sponsor: General Electric (GE) Healthcare
+  students: 
+  thumbnail: TMRF.png
+
+
+# ---------------------------------- NEW SECTION ---------------------------------- #
 # Note: The following section is for projects. Each project can have a title, description, image, and other details.
 # This section allows you to showcase various projects associated with the imr-framework.
 # Each project can be displayed with a title, description, image, and other relevant details.
@@ -196,7 +220,7 @@ alumni:
 # Projects
 projects:
 - title: Practical magnetic resonance imaging for all 
-  description: "This project will overcome access limitations and deliver a seminal, cutting-edge curriculum using an online game-based digital platform that allows students to build and play with their own educational MR scanner."
+  description: "This educational project will overcome access limitations and deliver a seminal, cutting-edge curriculum using an online game-based digital platform that allows students to build and play with their own educational MR scanner."
   github: https://github.com/delta-diy-mri/delta-diy-mri.github.io
   sponsor: JHU Provost's DELTA Award
   students: Ivan Etoku Oiye
@@ -212,19 +236,28 @@ projects:
   description: "Tracking brain changes due to infection in restricted environments require portable solutions providing image quality similar to clinical scanners"
   sponsor: 
   students: Ivan Etoku Oiye, Ajay Sharma
-  thumbnail: 
+  thumbnail: NiV_summary.png
 
-- title:  Tracking structural brain changes at 0.05T 
-  description: "UPCOMING - Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
-  sponsor: 
-  students: Ajay Sharma
-  thumbnail: 
+# - title:  Tracking structural brain changes at 0.05T 
+#   description: "UPCOMING - Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
+#   sponsor: 
+#   students: Ajay Sharma
+#   thumbnail: 
 
-- title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
-  description: "UPCOMING - Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
-  sponsor: 
-  students: Ajay Sharma
-  thumbnail: 
+# - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
+#   description: "UPCOMING - Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
+#   sponsor: 
+#   students: Ajay Sharma
+#   thumbnail: 
+
+# - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
+#   description: "UPCOMING - Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
+#   sponsor: 
+#   students: Ajay Sharma
+#   thumbnail: 
+
+
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
