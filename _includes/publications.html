@@ -1,0 +1,20 @@
+<!-- Publication Section -->
+<section id="publication" class="bg-light-gray">
+{% assign pubs = site.publication %}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Featured Publications</h2>
+            </div>
+        </div>
+        <div class="row">
+            {% for pub in pubs %}
+                <p style="font-size: 20px;">{{pub.num}} {{ pub.citation }} <a href="{{ pub.url }}">[Article]</a> </p>
+            {% endfor %}
+        </div>
+        <div class="row">
+            <h4> For the full list of publications visit <a href="https://scholar.google.com/citations?hl=en&user=isw_o1YAAAAJ">PI's Google Scholar Profile</a> </h4>
+         </div>   
+
+    </div>
+</section>

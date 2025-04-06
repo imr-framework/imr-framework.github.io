@@ -57,8 +57,12 @@ h6 {
     font-weight: 700;
 }
 
-.img-centered {
-    margin: 0 auto;
+
+
+h4.unbold{
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 1400;
 }
 
 .bg-light-gray {

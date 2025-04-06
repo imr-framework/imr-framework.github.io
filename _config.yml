@@ -256,9 +256,26 @@ projects:
 #   students: Ajay Sharma
 #   thumbnail: 
 
+publication:
+- citation: Oiye, I.E., Poojar, P., Qian, E., Vaughan, J.T. and Geethanath, S., 2025. A standalone and cost-effective MR-compatible computer numerical control machine for simultaneous, multi-parameter mapping. Measurement Science and Technology, 36(4), p.045902.
+  url: https://iopscience.iop.org/article/10.1088/1361-6501/adbb09/meta
+  num: 1)
 
+- citation: Manso Jimeno, M., Ravi, K.S., Fung, M., Oyekunle, D., Ogbole, G., Vaughan Jr, J.T. and Geethanath, S., 2025. Automated detection of motion artifacts in brain MR images using deep learning. NMR in Biomedicine, 38(1), p.e5276.
+  url: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5276
+  num: 2)
 
+- citation: Block, K.T., Zhang, C., Ciancia, V., Cooley, C., Geethanath, S., Stockmann, J., Verghese, G. and Alon, L., 2025. MRI4ALL - A Week‐Long Hackathon for the Development of an Open‐Source Ultra‐Low‐Field MRI System. Journal of Magnetic Resonance Imaging.
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29771
+  num: 3)
 
+- citation: Poojar, P., Oiye, I.E., Aggarwal, K., Jimeno, M.M., Vaughan, J.T. and Geethanath, S., 2024. Repeatability of image quality in very low‐field MRI. NMR in Biomedicine, 37(10), p.e5198.
+  url: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5276
+  num: 4)
+
+- citation: Tong, G., Ananth, R., Vaughan Jr, J.T. and Geethanath, S., 2024. Expanding access to magnetic resonance education through open-source web tutorials. NMR in Biomedicine, pp.e5109-e5109.  
+  url: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.5109
+  num: 5)
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
