@@ -238,23 +238,18 @@ projects:
   students: Ivan Etoku Oiye, Ajay Sharma
   thumbnail: NiV_summary.png
 
-# - title:  Tracking structural brain changes at 0.05T 
-#   description: "UPCOMING - Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
-#   sponsor: 
+- title:  Tracking structural brain changes at 0.05T 
+  description: "Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
+  sponsor: National Institute of Mental Health 
+  students: Ajay Sharma
+  thumbnail: R21_brain_tracking.png
+
+# - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
+#   description: "Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
+#   sponsor: PMX Inc.
 #   students: Ajay Sharma
 #   thumbnail: 
 
-# - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
-#   description: "UPCOMING - Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
-#   sponsor: 
-#   students: Ajay Sharma
-#   thumbnail: 
-
-# - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
-#   description: "UPCOMING - Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
-#   sponsor: 
-#   students: Ajay Sharma
-#   thumbnail: 
 
 publication:
 - citation: Oiye, I.E., Poojar, P., Qian, E., Vaughan, J.T. and Geethanath, S., 2025. A standalone and cost-effective MR-compatible computer numerical control machine for simultaneous, multi-parameter mapping. Measurement Science and Technology, 36(4), p.045902.
