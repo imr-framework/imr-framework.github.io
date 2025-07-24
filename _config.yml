@@ -253,11 +253,11 @@ projects:
   students: Ajay Sharma
   thumbnail: R21_brain_tracking.png
 
-# - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
-#   description: "Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
-#   sponsor: PMX Inc.
-#   students: Ajay Sharma
-#   thumbnail: 
+- title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
+  description: "Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
+  sponsor: PMX Inc.
+  students: Ajay Sharma
+  thumbnail: 
 
 
 publication:
