@@ -261,7 +261,7 @@ projects:
 
 
 publication:
-- citation: Geethanath, S., Artiges, A., Block, K.T., Chen, Q., Fernandes, T.F., Ganji, S., Grissom, W.A., Hoinkiss, D., Vaughan Jr, J.T., Konar, A.S. and Konstandin, S., 2025. Validating and Sharing Open-Source and Vendor-Neutral Pulse Sequence Programs - A Practical Approach. In MRI Pulse Sequences - Physics, Methods and Clinical Applications (pp. 313-322). Cham - Springer Nature Switzerland.
+- citation: Geethanath, S., Artiges, A., Block, K.T., Chen, Q., Fernandes, T.F., Ganji, S., Grissom, W.A., Hoinkiss, D., Vaughan Jr, J.T., Konar, A.S. and Konstandin, S., et al., 2025. Validating and Sharing Open-Source and Vendor-Neutral Pulse Sequence Programs - A Practical Approach. In MRI Pulse Sequences - Physics, Methods and Clinical Applications (pp. 313-322). Cham - Springer Nature Switzerland.
   url: https://link.springer.com/chapter/10.1007/978-3-031-90554-4_16
   num: 1)
 
