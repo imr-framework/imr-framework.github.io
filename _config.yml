@@ -228,18 +228,20 @@ projects:
 
 - title: Design and development of 0.2T portable MR systems
   description: "Successful design and development of a portable 0.2T MRI for the head and spine will yield structural, functional and metabolic MRI capabilities required for downstream clinical use in an accessible manner."
+  github: https://livejohnshopkins-my.sharepoint.com/my?csf=1&web=1&e=d8gSBp&CID=d91957cc%2D8f70%2D4e8a%2D92a8%2D4f8b41964138&id=%2Fpersonal%2Fsgeetha1%5Fjh%5Fedu%2FDocuments%2FDocuments%2FLab%2FProducts%2FMedirays&FolderCTID=0x0120004CB38A9E62CD6E499AC8B4DDAD6AB7E6
   sponsor: Medirays Pvt. Ltd.
   students: Ivan Etoku Oiye
   thumbnail: Medirays_pic.jpg
   
 - title: Accessible imaging of high consequence pathogens
   description: "Tracking brain changes due to infection in restricted environments require portable solutions providing image quality similar to clinical scanners"
-  sponsor: 
+  github: https://github.com/imr-framework/lf-brain-tracking
   students: Ivan Etoku Oiye, Ajay Sharma
   thumbnail: NiV_summary.png
 
 - title:  Tracking structural brain changes at 0.05T 
   description: "Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
+  github: https://github.com/imr-framework/lf-brain-tracking
   sponsor: National Institute of Mental Health 
   students: Ajay Sharma
   thumbnail: R21_brain_tracking.png
