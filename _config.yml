@@ -34,6 +34,13 @@ people:
     - title: google-scholar
       url: https://scholar.google.com/citations?hl=en&user=rojRnpEAAAAJ
 
+- name: Niyathi Girish
+  pic: 26
+  position: Summer volunteer - remote 
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/niyathi-girish/
+
 # Alumni names, titles and social links
 alumni:
 - name: Shounak Nandi
@@ -196,14 +203,14 @@ alumni:
 past:
 - title: Indian National Mission on Indigenous 1.5T MRI - Academic and prototyping site
   description: "We were involved in building a 1.5T MRI from scratch indigenously in India."
-  github: 
+  github: https://sameer.gov.in/tech_showcase/9
   sponsor: Dept. of Electronics and Information Technology (DeitY), Government of India
   students: 
   thumbnail: SAMEER.png
  
 - title: Pediatric brain tumor imaging using tailored MR Fingerprinting
   description: "We developed a non-synthetic approach to simultaneously obtain multiple qualitative and qunatitative MR images. We designed, implemented and evaluated the sequence on pediatric brain tumor patients"
-  github: 
+  github: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15465
   sponsor: General Electric (GE) Healthcare
   students: 
   thumbnail: TMRF.png
@@ -254,25 +261,26 @@ projects:
 
 
 publication:
+- citation: Geethanath, S., Artiges, A., Block, K.T., Chen, Q., Fernandes, T.F., Ganji, S., Grissom, W.A., Hoinkiss, D., Vaughan Jr, J.T., Konar, A.S. and Konstandin, S., 2025. Validating and Sharing Open-Source and Vendor-Neutral Pulse Sequence Programs - A Practical Approach. In MRI Pulse Sequences - Physics, Methods and Clinical Applications (pp. 313-322). Cham - Springer Nature Switzerland.
+  url: https://link.springer.com/chapter/10.1007/978-3-031-90554-4_16
+  num: 1)
+
 - citation: Oiye, I.E., Poojar, P., Qian, E., Vaughan, J.T. and Geethanath, S., 2025. A standalone and cost-effective MR-compatible computer numerical control machine for simultaneous, multi-parameter mapping. Measurement Science and Technology, 36(4), p.045902.
   url: https://iopscience.iop.org/article/10.1088/1361-6501/adbb09/meta
-  num: 1)
+  num: 2)
 
 - citation: Manso Jimeno, M., Ravi, K.S., Fung, M., Oyekunle, D., Ogbole, G., Vaughan Jr, J.T. and Geethanath, S., 2025. Automated detection of motion artifacts in brain MR images using deep learning. NMR in Biomedicine, 38(1), p.e5276.
   url: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5276
-  num: 2)
+  num: 3)
 
 - citation: Block, K.T., Zhang, C., Ciancia, V., Cooley, C., Geethanath, S., Stockmann, J., Verghese, G. and Alon, L., 2025. MRI4ALL - A Week‐Long Hackathon for the Development of an Open‐Source Ultra‐Low‐Field MRI System. Journal of Magnetic Resonance Imaging.
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29771
-  num: 3)
+  num: 4)
 
 - citation: Poojar, P., Oiye, I.E., Aggarwal, K., Jimeno, M.M., Vaughan, J.T. and Geethanath, S., 2024. Repeatability of image quality in very low‐field MRI. NMR in Biomedicine, 37(10), p.e5198.
   url: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5276
-  num: 4)
-
-- citation: Tong, G., Ananth, R., Vaughan Jr, J.T. and Geethanath, S., 2024. Expanding access to magnetic resonance education through open-source web tutorials. NMR in Biomedicine, pp.e5109-e5109.  
-  url: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.5109
   num: 5)
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
