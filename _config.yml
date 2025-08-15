@@ -227,7 +227,7 @@ past:
 # Projects
 projects:
 - title: Practical magnetic resonance imaging for all 
-  description: "This educational project will overcome access limitations and deliver a seminal, cutting-edge curriculum using an online game-based digital platform that allows students to build and play with their own educational MR scanner."
+  description: "Learn, Design, Build, Scan - DIY MRI for all."
   github: https://github.com/delta-diy-mri/delta-diy-mri.github.io
   sponsor: JHU Provost's DELTA Award
   students: Ivan Etoku Oiye
@@ -253,11 +253,19 @@ projects:
   students: Ajay Sharma
   thumbnail: R21_brain_tracking.png
 
+- title: Making open-source, vendor-neutral MRI more robust and accessible using Pypulseq
+  description: "Major updates to the Pypulseq library will make it more robust and accessible to the MRI community"
+  github: https://github.com/imr-framework/pypulseq
+  sponsor: National Institute of Biomedical Imaging and Bioengineering (NIBIB)
+  students: Leo 
+  thumbnail: Pypulseq.png
+
 - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
   description: "Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
   sponsor: PMX Inc.
   students: Ajay Sharma
   thumbnail: 
+
 
 
 publication:
