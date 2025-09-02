@@ -232,6 +232,7 @@ projects:
   sponsor: JHU Provost's DELTA Award
   students: Ivan Etoku Oiye
   thumbnail: Delta_Logo.png
+  more_info: https://engineering.jhu.edu/news/2023/09/introducing-delta-a-new-johns-hopkins-initiative-to-democratize-mri-technology/
 
 - title: Design and development of 0.2T portable MR systems
   description: "Successful design and development of a portable 0.2T MRI for the head and spine will yield structural, functional and metabolic MRI capabilities required for downstream clinical use in an accessible manner."
@@ -239,19 +240,22 @@ projects:
   sponsor: Medirays Pvt. Ltd.
   students: Ivan Etoku Oiye
   thumbnail: Medirays_pic.jpg
-  
+  more_info: https://livejohnshopkins-my.sharepoint.com/my?csf=1&web=1&e=d8gSBp&CID=d91957cc%2D8f70%2D4e8a%2D92a8%2D4f8b41964138&id=%2Fpersonal%2Fsgeetha1%5Fjh%5Fedu%2FDocuments%2FDocuments%2FLab%2FProducts%2FMedirays&FolderCTID=0x0120004CB38A9E62CD6E499AC8B4DDAD6AB7E6
+
 - title: Accessible imaging of high consequence pathogens
   description: "Tracking brain changes due to infection in restricted environments require portable solutions providing image quality similar to clinical scanners"
   github: https://github.com/imr-framework/lf-brain-tracking
   students: Ivan Etoku Oiye, Ajay Sharma
   thumbnail: NiV_summary.png
+  sponsor: None
 
 - title:  Tracking structural brain changes at 0.05T 
   description: "Tracking brain changes using low-field MRI at 3T performance will enable monitoring of neurological disorders in rural settings"
   github: https://github.com/imr-framework/lf-brain-tracking
-  sponsor: National Institute of Mental Health 
+  sponsor: National Institute of Mental Health (NIMH)
   students: Ajay Sharma
   thumbnail: R21_brain_tracking.png
+  more_info: https://reporter.nih.gov/search/3BhJ6hOHIECcqigr_41TYg/project-details/11139915
 
 - title: Making open-source, vendor-neutral MRI more robust and accessible using Pypulseq
   description: "Major updates to the Pypulseq library will make it more robust and accessible to the MRI community"
@@ -259,12 +263,14 @@ projects:
   sponsor: National Institute of Biomedical Imaging and Bioengineering (NIBIB)
   students: Leo 
   thumbnail: Pypulseq.png
+  more_info: https://reporter.nih.gov/search/3BhJ6hOHIECcqigr_41TYg/project-details/11240435
 
 - title: Automated response assessment in pediatric neuro-oncology (Auto-RAPNO)
   description: "Automating the workflow for RAPNO will augment neuro-oncologists in rural settings"
   sponsor: PMX Inc.
   students: Ajay Sharma
   thumbnail: 
+  more_info: https://www.pmxinc.com/auto-rapno
 
 
 
