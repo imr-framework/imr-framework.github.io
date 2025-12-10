@@ -34,6 +34,13 @@ people:
     - title: google-scholar
       url: https://scholar.google.com/citations?hl=en&user=rojRnpEAAAAJ
 
+- name: Leo Kinyera
+  pic: 27
+  position: MR Trainee 
+  social:
+    - title: google-scholar
+      url: https://scholar.google.com/citations?user=2bYjXS0AAAAJ&hl=en&oi=ao
+
 - name: Niyathi Girish
   pic: 26
   position: Summer volunteer - remote 
