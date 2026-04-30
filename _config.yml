@@ -45,39 +45,46 @@ people:
 # ---------------------------------- NEW SECTION ---------------------------------- #
 remote:
 - name: Sritanvi Donepudi 
-  pic: 25
+  pic: 28
   position: Undergraduate student, Johns Hopkins University
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sritanvi-donepudi-0bb4b7220/
 
 - name: Orya Shusterman-Bachi
-  pic: 26
+  pic: 29
   position: Undergraduate student, Tufts University
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/orya-shusterman-bachi-a9635a387/
 
 - name: Vedhika Anand
-  pic: 26
+  pic: 30
   position: Undergraduate student, University of Florida
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/vedhika-anand/
 
 - name: Niyathi Girish
-  pic: 26
+  pic: 31
   position: High School student, William Fremd High School 
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/niyathi-girish/
 
 - name: Ishita Prabodh
-  pic: 26
+  pic: 32
   position: High School student, Marriots Ridge High School
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/niyathi-girish/
+
+-name: BME Design Team
+  pic: 33
+  position: BME Undergraduate students, Johns Hopkins University
+  social:
+    - title: linkedin
+      url:  
 
 
 # Alumni names, titles and social links
