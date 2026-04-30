@@ -388,6 +388,11 @@ section h3.section-subheading {
     margin: 0 0 15px;
 }
 
+#news .news-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;

@@ -1,0 +1,32 @@
+<!-- Portfolio Grid Section -->
+<section id="news" class="bg-light-gray">
+{% assign news_items = site.news %}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">News</h2>
+                <!--<h3 class="section-subheading text-muted">Projects</h3>-->
+            </div>
+        </div>
+    <div class="row">
+    {% for news in news_items %}
+            <!-- <div class="project"> -->
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <a href="{{ news.github }}" class="portfolio-link" data-toggle="modal">
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                            <i class="fa fa-github fa-4x"></i>
+                        </div>
+                    </div>
+                    <img src="img/proj/{{ news.thumbnail }}" class="img-responsive img-centered" alt="{{ news.image-alt }}" width = "400" height = "auto">
+                </a>
+                <h4>{{ news.title }}</h4>
+                <p>{{ news.description }}</p>
+                <p><strong>Sponsor:</strong> {{ news.sponsor }}</p>
+                <a href="{{ news.more_info }}" target="_blank" rel="noopener">Read more</a>...
+
+            </div>
+    {% endfor %}
+    </div>
+</div>
+</section>

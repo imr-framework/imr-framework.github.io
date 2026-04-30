@@ -79,7 +79,7 @@ remote:
     - title: linkedin
       url: https://www.linkedin.com/in/niyathi-girish/
 
--name: BME Design Team
+- name: BME Design Team
   pic: 33
   position: BME Undergraduate students, Johns Hopkins University
   social:
@@ -321,7 +321,7 @@ projects:
 
 
 publication:
-- citation: BGirish, N., Sharma, A. and Geethanath, S., 2026. Zero‑shot self‑supervised super‑resolution reconstruction of MRI to track brain changes using volumetry: application to high-and low‑field data.  Medical Imaging 2026: Clinical and Biomedical Imaging (Vol. 13929, pp. 359-368). SPIE.
+- citation: Girish, N., Sharma, A. and Geethanath, S., 2026. Zero shot self supervised super resolution reconstruction of MRI to track brain changes using volumetry application to high-and low field data.  Medical Imaging 2026 Clinical and Biomedical Imaging (Vol. 13929, pp. 359-368). SPIE.
   url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13929/139291C/Zeroshot-selfsupervised-superresolution-reconstruction-of-MRI-to-track-brain-changes/10.1117/12.3088062.short
   num: 1)
 
@@ -342,7 +342,7 @@ publication:
   num: 5)
 
 
-
+news:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
