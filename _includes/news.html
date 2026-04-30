@@ -12,18 +12,13 @@
     {% for news in news_items %}
             <!-- <div class="project"> -->
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="{{ news.github }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-github fa-4x"></i>
-                        </div>
                     </div>
-                    <img src="img/proj/{{ news.thumbnail }}" class="img-responsive img-centered" alt="{{ news.image-alt }}" width = "400" height = "auto">
+                    <img src="img/news/{{ news.thumbnail }}" class="img-centered img-responsive img-circle" alt="{{ news.image-alt }}" width = "200" height = "auto">
                 </a>
                 <h4>{{ news.title }}</h4>
                 <p>{{ news.description }}</p>
-                <p><strong>Sponsor:</strong> {{ news.sponsor }}</p>
-                <a href="{{ news.more_info }}" target="_blank" rel="noopener">Read more</a>...
+                <a href="{{ news.url }}" target="_blank" rel="noopener">Read more</a>...
 
             </div>
     {% endfor %}
